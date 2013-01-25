@@ -2,7 +2,7 @@ import urllib
 import urllib2
 import logging
 import json
-import rest
+import sonar.rest
 
 class Rule(object):
 
